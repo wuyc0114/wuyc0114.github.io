@@ -60,3 +60,29 @@ header:
       slug: index.md
     - name: blog.md
     - name: whatever.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: wuyc14@stanford.edu
+      link: mailto:wuyc14@stanford.edu
+   # - name: WeChat
+   #   value: YourWeChatUsername
+   #   link: "#"
+  follow:
+    - name: Twitter
+      link: https://twitter.com/YuchenW50977030
+      #username: "@YourTwitterUsername"
+    - name: Facebook
+      link: https://www.facebook.com/wu.yuchen.750
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/yuchen-wu-aab9b71aa/
+    - name: GitHub
+      link: https://github.com/wuyc0114
+   # - name: Dribbble
+   #   link: https://dribbble.com/YourDribbbleUsername
+   # - name: Weibo
+   #   link: http://weibo.com/u/YourWeiboUsername
+   # - name: RSS
+   #   link: /feed.xml
