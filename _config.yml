@@ -20,11 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: wuyc14@stanford.edu
+      link: mailto:wuyc14@stanford.edu
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
