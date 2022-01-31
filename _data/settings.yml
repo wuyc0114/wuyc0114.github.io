@@ -1,7 +1,7 @@
 menu:
-- {name: 'Publications', url: '/publications'}
-- {name: 'Talks', url: '/cv'}
-- {name: 'Teaching', url: '/contact'}
+- {name: 'Research', url: '/research'}
+- {name: 'Talks', url: '/talks'}
+- {name: 'Teaching', url: '/teaching'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -14,10 +14,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/wuyc0114'}
+- {icon: 'twitter', link: 'https://twitter.com/YuchenW50977030'}
+- {icon: 'facebook', link: 'https://www.facebook.com/wu.yuchen.750'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yuchen-wu-aab9b71aa/'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
