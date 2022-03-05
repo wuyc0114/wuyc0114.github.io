@@ -1,5 +1,3 @@
-https://wuyc0114.github.io./default.html
-https://wuyc0114.github.io./default2.html
 https://wuyc0114.github.io/home.html
 https://wuyc0114.github.io/research.html
 https://wuyc0114.github.io/talks.html
