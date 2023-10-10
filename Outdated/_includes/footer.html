@@ -1,0 +1,13 @@
+<footer class="pt-5 my-5 text-muted border-top">
+    <h4 id="contact">Contact</h4>
+    <p>wuyc14 (at) stanford (dot) edu<br>
+    390 Serra Mall<br>
+    Stanford, CA 94305</p>
+  <div class="row">
+    <div class="col-md-2.5 text-end social-media-icons">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="ms-3 fs-5 grey"><i class="fab fa-{{ item.icon }}"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+</footer>
