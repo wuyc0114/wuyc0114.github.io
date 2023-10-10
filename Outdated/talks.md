@@ -1,4 +1,0 @@
----
-layout: talks
-title: "Talks"
----
